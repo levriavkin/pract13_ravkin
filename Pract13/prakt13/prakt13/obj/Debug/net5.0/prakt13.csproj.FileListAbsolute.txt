@@ -1,0 +1,16 @@
+C:\Users\305-10\Desktop\Порядин\prakt13\prakt13\bin\Debug\net5.0\prakt13.exe
+C:\Users\305-10\Desktop\Порядин\prakt13\prakt13\bin\Debug\net5.0\prakt13.deps.json
+C:\Users\305-10\Desktop\Порядин\prakt13\prakt13\bin\Debug\net5.0\prakt13.runtimeconfig.json
+C:\Users\305-10\Desktop\Порядин\prakt13\prakt13\bin\Debug\net5.0\prakt13.runtimeconfig.dev.json
+C:\Users\305-10\Desktop\Порядин\prakt13\prakt13\bin\Debug\net5.0\prakt13.dll
+C:\Users\305-10\Desktop\Порядин\prakt13\prakt13\bin\Debug\net5.0\ref\prakt13.dll
+C:\Users\305-10\Desktop\Порядин\prakt13\prakt13\bin\Debug\net5.0\prakt13.pdb
+C:\Users\305-10\Desktop\Порядин\prakt13\prakt13\obj\Debug\net5.0\prakt13.csproj.AssemblyReference.cache
+C:\Users\305-10\Desktop\Порядин\prakt13\prakt13\obj\Debug\net5.0\prakt13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\305-10\Desktop\Порядин\prakt13\prakt13\obj\Debug\net5.0\prakt13.AssemblyInfoInputs.cache
+C:\Users\305-10\Desktop\Порядин\prakt13\prakt13\obj\Debug\net5.0\prakt13.AssemblyInfo.cs
+C:\Users\305-10\Desktop\Порядин\prakt13\prakt13\obj\Debug\net5.0\prakt13.csproj.CoreCompileInputs.cache
+C:\Users\305-10\Desktop\Порядин\prakt13\prakt13\obj\Debug\net5.0\prakt13.dll
+C:\Users\305-10\Desktop\Порядин\prakt13\prakt13\obj\Debug\net5.0\ref\prakt13.dll
+C:\Users\305-10\Desktop\Порядин\prakt13\prakt13\obj\Debug\net5.0\prakt13.pdb
+C:\Users\305-10\Desktop\Порядин\prakt13\prakt13\obj\Debug\net5.0\prakt13.genruntimeconfig.cache
